@@ -10,8 +10,8 @@ from email import encoders
 
 from twilio.rest import Client
 
-account_sid = "AC5e4c52d7c5ef35f0b3f9089ee0fbbb84"
-auth_token = "59f81f362e882a2eb9699bf750b97d7a"
+account_sid = "" ##twilo accound sid
+auth_token = "" ##twilo auth token
 client = Client(account_sid, auth_token)
 
 frmaddr = "learnovateorg@gmail.com"
