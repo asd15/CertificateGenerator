@@ -14,8 +14,8 @@ account_sid = "" ##twilo accound sid
 auth_token = "" ##twilo auth token
 client = Client(account_sid, auth_token)
 
-frmaddr = "learnovateorg@gmail.com"
-pw = "courses@1"
+frmaddr = #your email id
+pw = #your password
 
 def takefile(filename):
     print(filename)
